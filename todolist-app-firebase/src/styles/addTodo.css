@@ -1,0 +1,67 @@
+.addTodo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+  z-index: 100;
+  background-color: white;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.addTodo input {
+  height: 40px;
+  border: none;
+  font-size: 18px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  border-bottom: 1.5px solid hsl(210, 10%, 75%);
+  padding-left: 5px;
+}
+
+.addTodo input:focus {
+  outline: none;
+}
+
+.addTodo button {
+  height: 40px;
+  width: 40px;
+  border: none;
+  color: white;
+  background-color: rgb(0, 128, 128);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  margin-top: 10px;
+}
+
+.addTodo button:hover {
+  background-color: hsl(210, 12%, 25%);
+}
+
+.addTodo button:active {
+  background-color: hsl(210, 12%, 15%);
+}
+
+.addTodo button i {
+  font-size: 20px;
+}
+
+.addTodo textarea {
+  height: 150px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+  resize: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.addTodo textarea:focus {
+  outline: none;
+}

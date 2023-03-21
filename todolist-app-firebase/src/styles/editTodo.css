@@ -1,0 +1,49 @@
+.editTodo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+  z-index: 100;
+}
+
+.editTodo input {
+  height: 40px;
+  border: unset;
+  font-size: 18px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  border-bottom: 1.5px solid hsl(210, 10%, 75%);
+  padding-left: 5px;
+}
+
+.editTodo input:focus {
+  outline: none;
+}
+
+.editTodo button {
+  height: 40px;
+  border: none;
+  color: white;
+  background-color: rgb(0, 128, 128);
+}
+
+.editTodo textarea {
+  height: 150px;
+  border-color: hsl(210, 10%, 75%);
+  padding: 5px;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.editTodo textarea:focus {
+  outline: none;
+}
+
+.editTodo button:hover {
+  background-color: hsl(210, 12%, 25%);
+}
+
+.editTodo button:active {
+  background-color: hsl(210, 12%, 15%);
+}
