@@ -3,7 +3,7 @@ Name : Jonathan Prasetyo
 NIM : 2501982613
 
 # Image 1 
-![1](https://user-images.githubusercontent.com/91464711/226500813-ed54a54f-f7b3-4039-a982-2b91f62213ab.PNG)
+
 # Image 2 
 ![2](https://user-images.githubusercontent.com/91464711/226500838-05714a32-d4e5-40df-9703-21d30e500a4e.PNG)
 # Image 3
