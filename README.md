@@ -13,7 +13,7 @@ NIM : 2501982613
 # Image 5
 ![5](https://user-images.githubusercontent.com/91464711/226500899-239e357d-ddd1-4aea-a14d-ea9e721c1391.PNG)
 # Image 6
-![6](https://user-images.githubusercontent.com/91464711/226500922-a2083de9-657f-445e-b86f-c4fd3e1e486f.PNG)
+![login](https://user-images.githubusercontent.com/91464711/226501032-6756378d-324e-47bc-8f8f-ec82db44184b.PNG)
 # Image 7
 ![9](https://user-images.githubusercontent.com/91464711/226500969-6bbe5b16-de71-4d8e-b076-44b04b6e0b1e.PNG)
 # Image 8
@@ -21,6 +21,5 @@ NIM : 2501982613
 # Image 9 
 ![login gmail](https://user-images.githubusercontent.com/91464711/226501006-2e3bb8b4-3812-480a-9332-9d58cace21dd.PNG)
 # Image 10 
-![login](https://user-images.githubusercontent.com/91464711/226501032-6756378d-324e-47bc-8f8f-ec82db44184b.PNG)
-# Image 11
 ![74e78c52-daad-4131-952f-3bd9a0edcd9f](https://user-images.githubusercontent.com/91464711/226501852-be419d91-fcdd-4bf1-8266-dd6d099290ff.jpg)
+
