@@ -17,7 +17,7 @@ NIM : 2501982613
 # Image 7
 ![9](https://user-images.githubusercontent.com/91464711/226500969-6bbe5b16-de71-4d8e-b076-44b04b6e0b1e.PNG)
 # Image 8
-![brasil login gmail](https://user-images.githubusercontent.com/91464711/226500991-b941ea96-7843-44d9-afac-b6639c627d2c.PNG)
+
 # Image 9 
 ![login gmail](https://user-images.githubusercontent.com/91464711/226501006-2e3bb8b4-3812-480a-9332-9d58cace21dd.PNG)
 # Image 10 
